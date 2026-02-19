@@ -21,20 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangyu528&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyu528&layout=compact&theme=vision-friendly-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangyu528&theme=black-ice" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake-dark.svg">
