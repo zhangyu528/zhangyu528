@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Zhang Yu 👋
 
-<!--
-**zhangyu528/zhangyu528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zhangyu528&label=Profile%20views&color=0e75b6&style=flat" alt="zhangyu528" />
+</p>
 
-Here are some ideas to get you started:
+### 💫 About Me
+- 🔭 I’m currently working on **Test Automation & CI/CD Pipelines**
+- 🌱 I’m currently learning **Advanced Cloud Architecture**
+- 💬 Ask me about **Git, GitHub Actions, and Automation Testing**
+- 📫 How to reach me: **your-email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,python,java,mysql,linux" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangyu528&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyu528&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangyu528&theme=black-ice" />
+</p>
+
+---
+
+### 🐍 My Contributions
+![](https://github-readme-stats.vercel.app/api/wakatime?username=zhangyu528&layout=compact&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
