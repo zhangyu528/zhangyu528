@@ -1,25 +1,24 @@
 name: generate animation
 
 on:
-  # 每 24 小时自动运行一次
   schedule:
     - cron: "0 0 * * *" 
-  
-  # 允许在 Actions 界面手动触发执行
   workflow_dispatch:
-  
-  # 每次 push 到 main 分支时自动运行
   push:
     branches:
     - main
 
 jobs:
   generate:
+    # --- 这里是关键修改：在代码里直接申请写权限 ---
+    permissions: 
+      contents: write
+    # ---------------------------------------
+    
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      # 第一步：生成小蛇动画 (.svg 格式)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -28,7 +27,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 第二步：将生成的图片推送到一个名为 output 的独立分支
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
