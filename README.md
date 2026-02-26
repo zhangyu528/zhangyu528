@@ -10,25 +10,6 @@
 - 💬 Ask me about **Git, GitHub Actions, and Python/Java**
 - 📫 How to reach me: **your-email@example.com**
 
----
-
-### 🛠 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,python,java,mysql,linux,maven,postman" />
-  </a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhangyu528/zhangyu528/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 💬 Inspiration
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
