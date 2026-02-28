@@ -8,12 +8,4 @@
 - 🔭 I’m currently working on **Test Automation & CI/CD Pipelines**
 - 🌱 I’m currently learning **Cloud Native & AI Automation**
 - 💬 Ask me about **Git, GitHub Actions, and Python/Java**
-- 📫 How to reach me: **your-email@example.com**
-
-
-### 💬 Inspiration
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”*
+- 📫 How to reach me: **zhangyu528@163.com**
